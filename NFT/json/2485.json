@@ -1,0 +1,38 @@
+{
+  "sip": 16,
+  "name": "Stacks Whales #2485",
+  "properties": {
+    "collection": "Stacks Whales"
+  },
+  "description": "Whale NFTs on the Stack blockchain are a captivating way to own and display artwork of majestic sea creatures.",
+  "size": "10000",
+  "price": "1",
+  "external_url": "",
+  "dna": "b42231c032a3b20dc1fbe36c5f8f29cafc6e5f9f",
+  "edition": 2485,
+  "date": 1678009005519,
+  "attributes": [
+    {
+      "trait": "BACKGROUND",
+      "value": "BLUE"
+    },
+    {
+      "trait": "BASE",
+      "value": "WHALEY ORANGE"
+    },
+    {
+      "trait": "EYE ACCESSORY",
+      "value": "GREEN EYE SHADOW"
+    },
+    {
+      "trait": "HEADGEAR",
+      "value": "GREEN CAP"
+    },
+    {
+      "trait": "MOUTH ACCESSORY",
+      "value": "VAPE"
+    }
+  ],
+  "asset_type": "image/png",
+  "image": "ipfs://ipfs/QmYSyAWEo9Jv46QhVvzsDmZt7sPCHKE5ChjcHf3MPY7Y1E/images/2485.png"
+}
